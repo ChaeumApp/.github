@@ -155,7 +155,8 @@
 ## 주요 기술 Tech Stack 💡
 
 ### 시스템 아키텍쳐
-<img src="./exec/SA.png"/>
+![SA](https://github.com/ChaeumApp/.github/assets/15648142/7cca5d3e-4e91-41f1-8844-c05322a2dce5)
+
 
 ### Tool 
 ```
@@ -205,13 +206,13 @@ FrontEnd
 ### [Convention](https://half-yamamomo-2ac.notion.site/Convention-f46b96c0a223459da1a034a20d4bd1f6?pvs=4)
 
 ### API
-<img src = "./exec/API-swagger-ui.png" />
+![API](https://github.com/ChaeumApp/.github/assets/15648142/f7b09864-dda1-4ef3-8fb8-df0745ad4693)
 
 ### ERD
-<img src = "./exec/ERD.png" />
+![ERD](https://github.com/ChaeumApp/.github/assets/15648142/87c4d577-7457-43ff-a685-afb2fe019d54)
 
 ### 가이드 🗞
-[프로젝트 매뉴얼(포팅매뉴얼)](./exec/채움_포팅메뉴얼.pdf)  
+[채움_포팅메뉴얼](https://github.com/ChaeumApp/.github/files/12875765/_.pdf)
 [DumpSQL](./exec/dump.sql)  
 
 <br>
