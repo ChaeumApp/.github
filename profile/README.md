@@ -208,11 +208,13 @@ FrontEnd
 ### API
 ![API](https://github.com/ChaeumApp/.github/assets/15648142/f7b09864-dda1-4ef3-8fb8-df0745ad4693)
 
+
 ### ERD
 ![ERD](https://github.com/ChaeumApp/.github/assets/15648142/87c4d577-7457-43ff-a685-afb2fe019d54)
 
+
 ### 가이드 🗞
-[채움_포팅메뉴얼](https://github.com/ChaeumApp/.github/files/12875765/_.pdf)
+[채움_포팅메뉴얼](https://github.com/ChaeumApp/.github/files/12875765/_.pdf)  
 [DumpSQL](./exec/dump.sql)  
 
 <br>
